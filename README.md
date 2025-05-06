@@ -35,10 +35,6 @@ cd QR-Code-Generator
 Contributions are welcome!  
 Feel free to fork the project and submit a pull request with your improvements.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 - Created by [Aabhas Mishra](https://github.com/Aabhasmishra)
