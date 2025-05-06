@@ -1,7 +1,7 @@
 # QR Code Generator
 ![flow33](https://github.com/user-attachments/assets/4e0cd249-6f02-4bb4-85bf-825034180cc0)
 
-A simple and responsive web application to generate QR codes from user-provided text or URLs. Built using HTML, CSS.
+A simple and responsive web application to generate QR codes from user-provided text or URLs. Built using HTML and CSS.
 
 ## Features
 
